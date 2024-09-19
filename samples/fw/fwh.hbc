@@ -1,0 +1,13 @@
+# fwh.hbc
+# Hbmk2 make para FiveWin
+# Uso: hbmk2 miprg.prg fwh.hbc
+
+{win}incpaths=C:\fwh2004\include
+{win}libpaths=C:\fwh2004\lib
+
+{win}gt=gtgui
+
+{win}libs=fiveh fivehc libmysql
+{win}libs=hbwin hbxpp hbct xhb hbziparc hbmzip minizip 
+{win}libs=cw32 uuid import32 ws2_32 odbc32 nddeapi iphlpapi
+{win}libs=msimg32 psapi rasapi32 gdiplus shell32

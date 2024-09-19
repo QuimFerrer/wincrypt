@@ -1,0 +1,16 @@
+# Test
+#
+
+-inc
+
+#Includes
+#-Ic:\hb32\include
+#-Lc:\hb32\lib\win\bcc
+
+#libs
+#-lhbct
+#-lhbmemio
+
+-ow
+
+test.prg
