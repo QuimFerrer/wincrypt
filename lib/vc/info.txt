@@ -1,0 +1,6 @@
+Ejecutar makelibs.bat que a su vez llama a vc_dll2lib.bat 
+
+Si no no es posible compilar con estas lib, utilitzar las que proporciona el SDK:
+C:\Program Files (x86)\Windows Kits\10\Lib\10.0.19041.0\um\x86\
+
+
